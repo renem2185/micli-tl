@@ -11,6 +11,9 @@ $ sudo npm install -g git+https://github.com/renem2185/micli-tl.git
 ``` bash
 ## At first, please create the profile with `micli-cfg`
 $ micli-tl --name <profile_name>
+
+## if you try it with npx:
+$ npx github:renem2185/micli-tl --name <profile_name>
 ```
 
 ## Note

@@ -6,6 +6,9 @@
   "author": "Rene Murakumo",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "micli-tl": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

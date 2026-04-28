@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // Misskey CLI Timeline Viewer (kari)
 // https://mi.tsujigoya.net/notes/a98hqg0ojq
 // 時々Geminiさんに手伝ってもらっています
