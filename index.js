@@ -211,7 +211,7 @@ socket.addEventListener('error', err => {
 });
 
 process.on('SIGINT', () => {
-  console.log(`${cr}Closing...`);
+  console.log(colorStr(`${cr}Closing...`, 'green'));
   socket.close();
   process.exit(0)
 });
